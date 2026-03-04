@@ -1,0 +1,7 @@
+{
+  "name": "proyector",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
